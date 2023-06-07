@@ -1,0 +1,10 @@
+sample script that created: test-result.jpg
+new-project 50 50
+add-layer new-layer
+add-image-to-layer new-layer sample-blend.jpg 0 0 jpg
+add-layer new-layer2
+add-image-to-layer new-layer2 test.jpg 0 0 jpg
+set-filter new-layer2 blending-difference
+save-project test-project.collage
+save-image test-result.jpg
+quit

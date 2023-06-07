@@ -1,0 +1,25 @@
+ ------- Collage GUI User Manual
+This GUI provides an interface to interact with the Collage program using a Graphical User Interface
+. Below is a list of instructions on how to use the GUI:
+● New Project: To create a new project, click on the "File" menu and select "New Project."
+Enter the height and width values in the pop-up window, then click "OK." This will create a new
+project with the specified height and width.
+● Open Project: To open an existing project, click on the "File" menu and select "Open Project."
+A file browser will appear, navigate to the location of the project, select it, and click "Open."
+The project will be loaded into the GUI.
+● Save Project: To save the current project, click on the "File" menu and select "Save Project."
+A file browser will appear, enter a filename, and click "Save."
+● Save Image: To save the current image, click on the "File" menu and select "Save Image."
+A file browser will appear, enter a filename, and click "Save." The current image will be saved as
+a PPM file.
+● Add Layer: To add a new layer, click on the "Layer" menu and select "Add Layer." A pop-up window
+will appear, enter the name of the layer, and click "OK." A new layer will be added to the current
+project.
+● Add Image to Layer: To add an image to a layer, click on the "Layer" menu and select "Add Image
+to Layer." A file browser will appear, navigate to the location of the image, select it, and click
+"Open." The selected image will be added to the current layer.
+● Set Filter to Layer: To set filter to a layer, click on the “Set Filter to Layer” inside the
+Layer Menu. A file browser will appear, select the desired type of filter and add the name of the
+layer. Click “ok” and the filter will be applied.
+● Exit: To exit the program, click on the close icon on the top corner and the program will be
+closed.
